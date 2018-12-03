@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="survey_reader" name="survey_reader">d18b9793c0a80a6b00ac0456923a1c0f</contains>
+        <role display_value="x_uocb4_survey_res.survey_assessment_user" name="x_uocb4_survey_res.survey_assessment_user">74ad0c3ddb852700820180c74b9619b2</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin-justin</sys_created_by>
+        <sys_created_on>2018-10-10 22:56:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cd945d4edb416700820180c74b96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>survey_reader.x_uocb4_survey_res.survey_assessment_user</sys_name>
+        <sys_package display_value="Survey Response Reviewer" source="x_uocb4_survey_res">ace7ee99dbc9e300820180c74b9619c0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Survey Response Reviewer">ace7ee99dbc9e300820180c74b9619c0</sys_scope>
+        <sys_update_name>sys_user_role_contains_cd945d4edb416700820180c74b96199f</sys_update_name>
+        <sys_updated_by>admin-justin</sys_updated_by>
+        <sys_updated_on>2018-10-10 22:56:19</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

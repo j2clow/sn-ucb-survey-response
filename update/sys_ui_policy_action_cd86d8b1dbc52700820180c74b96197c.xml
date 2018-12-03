@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>assigned_to</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin-mike</sys_created_by>
+        <sys_created_on>2018-10-09 23:46:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cd86d8b1dbc52700820180c74b96197c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>assigned_to</sys_name>
+        <sys_package display_value="Survey Response Reviewer" source="x_uocb4_survey_res">ace7ee99dbc9e300820180c74b9619c0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Survey Response Reviewer">ace7ee99dbc9e300820180c74b9619c0</sys_scope>
+        <sys_update_name>sys_ui_policy_action_cd86d8b1dbc52700820180c74b96197c</sys_update_name>
+        <sys_updated_by>admin-mike</sys_updated_by>
+        <sys_updated_on>2018-10-09 23:47:22</sys_updated_on>
+        <table>x_uocb4_survey_res_survey_assessment</table>
+        <ui_policy display_value="If Resolved checked - Require Resolved by, Resolved On, and Comments">4155d0b1dbc52700820180c74b96190f</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

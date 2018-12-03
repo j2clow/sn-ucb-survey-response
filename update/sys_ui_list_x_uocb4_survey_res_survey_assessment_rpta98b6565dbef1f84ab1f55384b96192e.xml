@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_uocb4_survey_res_survey_assessment" version="2" view="RPTa98b6565dbef1f84ab1f55384b96192e">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>instance</element>
+            <list_id display_value="x_uocb4_survey_res_survey_assessment" element="NULL" name="x_uocb4_survey_res_survey_assessment" parent="NULL" relationship="NULL" sys_domain="global" view="318b6565dbef1f84ab1f55384b961948">bcbba053dbdd6b80775617e15b96191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>69112_rtmeyer</sys_created_by>
+            <sys_created_on>2018-10-27 03:25:49</sys_created_on>
+            <sys_id>f0bba053dbdd6b80775617e15b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>69112_rtmeyer</sys_updated_by>
+            <sys_updated_on>2018-10-27 03:25:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>source_id</element>
+            <list_id display_value="x_uocb4_survey_res_survey_assessment" element="NULL" name="x_uocb4_survey_res_survey_assessment" parent="NULL" relationship="NULL" sys_domain="global" view="318b6565dbef1f84ab1f55384b961948">bcbba053dbdd6b80775617e15b96191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>69112_rtmeyer</sys_created_by>
+            <sys_created_on>2018-10-27 03:25:49</sys_created_on>
+            <sys_id>74bba053dbdd6b80775617e15b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>69112_rtmeyer</sys_updated_by>
+            <sys_updated_on>2018-10-27 03:25:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>instance_question</element>
+            <list_id display_value="x_uocb4_survey_res_survey_assessment" element="NULL" name="x_uocb4_survey_res_survey_assessment" parent="NULL" relationship="NULL" sys_domain="global" view="318b6565dbef1f84ab1f55384b961948">bcbba053dbdd6b80775617e15b96191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>69112_rtmeyer</sys_created_by>
+            <sys_created_on>2018-10-27 03:25:49</sys_created_on>
+            <sys_id>f4bba053dbdd6b80775617e15b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>69112_rtmeyer</sys_updated_by>
+            <sys_updated_on>2018-10-27 03:25:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>string_value</element>
+            <list_id display_value="x_uocb4_survey_res_survey_assessment" element="NULL" name="x_uocb4_survey_res_survey_assessment" parent="NULL" relationship="NULL" sys_domain="global" view="318b6565dbef1f84ab1f55384b961948">bcbba053dbdd6b80775617e15b96191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>69112_rtmeyer</sys_created_by>
+            <sys_created_on>2018-10-27 03:25:49</sys_created_on>
+            <sys_id>78bba053dbdd6b80775617e15b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>69112_rtmeyer</sys_updated_by>
+            <sys_updated_on>2018-10-27 03:25:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>instance.trigger_id</element>
+            <list_id display_value="x_uocb4_survey_res_survey_assessment" element="NULL" name="x_uocb4_survey_res_survey_assessment" parent="NULL" relationship="NULL" sys_domain="global" view="318b6565dbef1f84ab1f55384b961948">bcbba053dbdd6b80775617e15b96191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>69112_rtmeyer</sys_created_by>
+            <sys_created_on>2018-10-27 03:25:49</sys_created_on>
+            <sys_id>f8bba053dbdd6b80775617e15b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>69112_rtmeyer</sys_updated_by>
+            <sys_updated_on>2018-10-27 03:25:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>instance.related_id_1</element>
+            <list_id display_value="x_uocb4_survey_res_survey_assessment" element="NULL" name="x_uocb4_survey_res_survey_assessment" parent="NULL" relationship="NULL" sys_domain="global" view="318b6565dbef1f84ab1f55384b961948">bcbba053dbdd6b80775617e15b96191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>69112_rtmeyer</sys_created_by>
+            <sys_created_on>2018-10-27 03:25:49</sys_created_on>
+            <sys_id>7cbba053dbdd6b80775617e15b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>69112_rtmeyer</sys_updated_by>
+            <sys_updated_on>2018-10-27 03:25:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>instance.related_id_2</element>
+            <list_id display_value="x_uocb4_survey_res_survey_assessment" element="NULL" name="x_uocb4_survey_res_survey_assessment" parent="NULL" relationship="NULL" sys_domain="global" view="318b6565dbef1f84ab1f55384b961948">bcbba053dbdd6b80775617e15b96191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>69112_rtmeyer</sys_created_by>
+            <sys_created_on>2018-10-27 03:25:49</sys_created_on>
+            <sys_id>fcbba053dbdd6b80775617e15b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>69112_rtmeyer</sys_updated_by>
+            <sys_updated_on>2018-10-27 03:25:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user</element>
+            <list_id display_value="x_uocb4_survey_res_survey_assessment" element="NULL" name="x_uocb4_survey_res_survey_assessment" parent="NULL" relationship="NULL" sys_domain="global" view="318b6565dbef1f84ab1f55384b961948">bcbba053dbdd6b80775617e15b96191c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>69112_rtmeyer</sys_created_by>
+            <sys_created_on>2018-10-27 03:25:49</sys_created_on>
+            <sys_id>70bba053dbdd6b80775617e15b96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>69112_rtmeyer</sys_updated_by>
+            <sys_updated_on>2018-10-27 03:25:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_uocb4_survey_res_survey_assessment</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>323487_jonmhays</sys_created_by>
+            <sys_created_on>2018-10-29 17:57:07</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>eb464a40dbede7802a3c10825b9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_uocb4_survey_res_survey_assessment</sys_name>
+            <sys_package display_value="Survey Response Reviewer" source="x_uocb4_survey_res">ace7ee99dbc9e300820180c74b9619c0</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Survey Response Reviewer">ace7ee99dbc9e300820180c74b9619c0</sys_scope>
+            <sys_update_name>sys_ui_list_x_uocb4_survey_res_survey_assessment_RPTa98b6565dbef1f84ab1f55384b96192e</sys_update_name>
+            <sys_updated_by>323487_jonmhays</sys_updated_by>
+            <sys_updated_on>2018-10-29 17:57:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpta98b6565dbef1f84ab1f55384b96192e" name="RPTa98b6565dbef1f84ab1f55384b96192e">318b6565dbef1f84ab1f55384b961948</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

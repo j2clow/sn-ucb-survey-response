@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Survey Response Follow-up" max_length="40" name="x_uocb4_survey_res_survey_assessment" sizeclass="4" type="collection">
+        <element label="Comments" max_length="4000" name="u_comments" type="journal"/>
+        <element label="Record" max_length="32" name="u_record" reference="asmt_assessment_instance" type="reference"/>
+        <element label="Resolved on" max_length="40" name="u_resolved_on" type="glide_date_time"/>
+        <element label="Survey Assessment Trigger" max_length="32" name="u_survey_assessment_trigger" reference="x_uocb4_survey_res_survey_response_reviewer_configuration" type="reference"/>
+        <index name="index">
+            <element name="u_record"/>
+        </index>
+        <index name="index2">
+            <element name="u_survey_assessment_trigger"/>
+        </index>
+    </element>
+</database>
